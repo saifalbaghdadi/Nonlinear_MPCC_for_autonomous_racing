@@ -169,5 +169,6 @@ The parameters of the MPCC can be tuned in `mpc_params_fssim.yaml` file located 
 - mpc_w_accel
   - Weight for penalizing high acceleration behavior (default: 50) 
 - mpc_w_delta_d
-  - Weight for penalizing rate of change of steering angle (default: 1500) 
+  - Weight for penalizing rate of change of steering angle (default: 1500) ى
+
   
